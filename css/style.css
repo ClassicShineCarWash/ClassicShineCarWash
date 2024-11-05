@@ -156,7 +156,7 @@ a:focus {
 /**********************************/
 .top-bar {
   position: relative;
-  height: 75px;
+  height: 142px;
   display: flex;
   align-items: center;
   background: #ffffff;
@@ -169,8 +169,8 @@ a:focus {
 
 .top-bar .logo h1 {
   margin: -4px 0 0 0;
-  color: #e81c2e;
-  font-size: 50px;
+  color: #de2130;
+  font-size: 43px;
   line-height: 50px;
   font-weight: 800;
   letter-spacing: 1px;
@@ -178,7 +178,7 @@ a:focus {
 }
 
 .top-bar .logo h1 span {
-  color: #202c45;
+  color: #2951a7;
 }
 
 .top-bar .logo img {
@@ -198,7 +198,7 @@ a:focus {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #202c45;
+  background: #2951a7;
   border-radius: 40px;
 }
 
@@ -287,7 +287,7 @@ a:focus {
 
 .nav-bar .btn:hover {
   color: #ffffff;
-  background: #e81c2e;
+  background: #de2130;
   box-shadow: inset 200px 0 0 0 #e81c2e;
 }
 
