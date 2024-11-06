@@ -346,7 +346,7 @@
               <i class="fa fa-map-marker-alt"></i>
               <div class="facts-text">
                 <h3 data-toggle="counter-up">1</h3>
-                <p>Care Points</p>
+                <p>Locations</p>
               </div>
             </div>
           </div>
@@ -372,7 +372,7 @@
             <div class="facts-item">
               <i class="fa fa-check"></i>
               <div class="facts-text">
-                <h3 data-toggle="counter-up">over 1000</h3>
+                <h3 data-toggle="counter-up">over 10,000</h3>
                 <p>Washes Completed</p>
               </div>
             </div>
@@ -394,7 +394,7 @@
             <div class="price-item">
               <div class="price-header">
                 <h3>Basic Cleaning</h3>
-                <h2><span>$</span><strong>25</strong><span>.99</span></h2>
+                <h2><span>$</span><strong>39</strong><span>.99</span></h2>
               </div>
               <div class="price-body">
                 <ul>
@@ -416,7 +416,7 @@
             <div class="price-item featured-item">
               <div class="price-header">
                 <h3>Premium Cleaning</h3>
-                <h2><span>$</span><strong>35</strong><span>.99</span></h2>
+                <h2><span>$</span><strong>49</strong><span>.99</span></h2>
               </div>
               <div class="price-body">
                 <ul>
@@ -438,7 +438,7 @@
             <div class="price-item">
               <div class="price-header">
                 <h3>Complex Cleaning</h3>
-                <h2><span>$</span><strong>49</strong><span>.99</span></h2>
+                <h2><span>$</span><strong>59</strong><span>.99</span></h2>
               </div>
               <div class="price-body">
                 <ul>
